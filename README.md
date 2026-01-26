@@ -6,8 +6,6 @@ CRUD application built with JavaScript (frontend only), implementing create, rea
 
 ## 📷 Screenshot
 
-![Dashboard Screenshot](/images/Screenshot%202026-01-22%20032125.png)
-
 ![validation](/images/Screenshot%202026-01-22%20032138.png)
 
 ![products](/images/Screenshot%202026-01-22%20032256.png)
