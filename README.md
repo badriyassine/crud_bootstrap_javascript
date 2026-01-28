@@ -4,9 +4,13 @@ CRUD application built with JavaScript (frontend only), implementing create, rea
 
 ---
 
-## 📷 Screenshot
+## 🌐 Live Demo
 
-![validation](/images/Screenshot%202026-01-22%20032138.png)
+👉 [See the website live](https://badriyassine.github.io/crud_bootstrap_javascript/)
+
+---
+
+## 📷 Screensho
 
 ![products](/images/Screenshot%202026-01-22%20032256.png)
 
