@@ -16,9 +16,7 @@ document.addEventListener("DOMContentLoaded", () => {
   let priceValidation = document.getElementById("priceValidation");
   let categoryValidation = document.getElementById("categoryValidation");
 
-  let productData = localStorage.productStorage
-    ? JSON.parse(localStorage.productStorage)
-    : [];
+  let productData = JSON.parse(localStorage.getItem("productStorage")) || [];
 
   // function-total
   function CalculTotal() {
@@ -249,6 +247,4 @@ document.addEventListener("DOMContentLoaded", () => {
     localStorage.setItem("productStorage", JSON.stringify(productData));
     readData();
   }
-
-  readData();
 });
