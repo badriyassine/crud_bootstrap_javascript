@@ -10,7 +10,7 @@ CRUD application built with JavaScript (frontend only), implementing create, rea
 
 ---
 
-## 📷 Screensho
+## 📷 Screenshot
 
 ![products](/images/Screenshot%202026-01-22%20032256.png)
 
