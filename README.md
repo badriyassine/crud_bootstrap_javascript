@@ -4,19 +4,31 @@ CRUD application built with JavaScript (frontend only), implementing create, rea
 
 ---
 
-## 🌐 Live Demo
+## Table of Contents
 
-👉 [See the website live](https://badriyassine.github.io/crud_bootstrap_javascript/)
+- [Live Demo](#live-demo)
+- [Preview image](#screenshot)
+- [Features](#features)
+- [Installation](#how-to-run-it)
+- [Technologies Used](#technologies-used)
+- [Author](#Author)
+
 
 ---
 
-## 📷 Screenshot
+## Live Demo
+
+[See the website live](https://badriyassine.github.io/crud_bootstrap_javascript/)
+
+---
+
+## Screenshot
 
 ![products](/images/Screenshot%202026-01-22%20032256.png)
 
 ---
 
-## 🌟 Features
+## Features
 
 - Create new items
 - View stored items
@@ -27,7 +39,7 @@ CRUD application built with JavaScript (frontend only), implementing create, rea
 
 ---
 
-## 💻 How to run it
+## How to run it
 
 1. Clone the repository:
 
@@ -42,7 +54,7 @@ open index.html in your browser.
 ``` 
 
 ---
-## ⚙️ Technologies Used
+## Technologies Used
 
 - html
 - css
@@ -52,7 +64,7 @@ open index.html in your browser.
 
 ---
 
-## 👤 Author
+## Author
 
 Made by [**BADRI YASSINE**](https://github.com/bdriyassine)
 
